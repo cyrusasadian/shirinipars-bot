@@ -19,7 +19,7 @@ from telegram.ext import (
 )
 
 # ─── تنظیمات ───────────────────────────────────────────────────
-BOT_TOKEN = "8713274144:AAG83-hloD0w7qP7TNfSTJDo73h7Io1GhbI"   # توکن ربات از BotFather
+BOT_TOKEN = "8713274144:AAGhYSc9LWKZPZ-GMj35tur0st513wPLqDM"   # توکن ربات از BotFather
 ADMIN_IDS = [75294567]              # آیدی عددی ادمین‌ها
 
 logging.basicConfig(
